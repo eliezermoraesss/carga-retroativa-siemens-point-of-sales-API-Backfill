@@ -13,7 +13,7 @@ ORA_DSN  = os.getenv("ORA_DSN",  "CLOUD.MULTFER.COM.BR:21159/PROD")
 
 # ── Siemens API ───────────────────────────────────────────────────────────────
 SIEMENS_API_URL   = os.getenv("SIEMENS_API_URL", "https://api.pos.siemens.com/qua/create_record")
-SIEMENS_API_TOKEN = os.getenv("SIEMENS_API_TOKEN", "")
+SIEMENS_API_TOKEN = os.getenv("SIEMENS_API_TOKEN", "RcfWrMKuWv6ZDZuN18ShqalSIEOJyQ8x2mubw4BI")
 
 # ── Processamento ─────────────────────────────────────────────────────────────
 BATCH_SIZE    = int(os.getenv("BATCH_SIZE", "1000"))
