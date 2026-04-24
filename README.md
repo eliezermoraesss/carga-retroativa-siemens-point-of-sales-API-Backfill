@@ -4,6 +4,10 @@ Um sistema robusto de backfill (carga retroativa) desenvolvido em Python e Flask
 
 Este projeto foi desenhado para lidar com grandes volumes de dados de forma resiliente, contando com processamento em lote (batches), mecanismo de retry autônomo, e um dashboard de monitoramento em tempo real operado via Server-Sent Events (SSE).
 
+![Carga Retroativa](./assets/img/carga_retroativa_pos_siemens_multfer_24042026.gif)
+
+![Portal](./assets/img/land.png)
+
 ---
 
 ## 🌟 Principais Funcionalidades
